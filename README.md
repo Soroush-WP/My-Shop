@@ -18,9 +18,9 @@ Key highlights of the project:
 
 ## Features
 
-- Responsiv And Simple Design.
-- Native & Simple UI/UX for easier Exprinces. 
-- Optimized And Great Context.  
+- Searching, Sorting by any type.
+- Responsive & simple Design UI/UX. 
+- ProductCart , Login , checkout , and... Many more!  
 
 ---
 
@@ -31,8 +31,10 @@ Follow these steps to run the project locally:
 ```bash
 # Installing dependencies.
 npm install
+
 # Running The Server.
 npm run dev
+
 # Done .
 http://localhost:5173/
 
