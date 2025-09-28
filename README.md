@@ -19,7 +19,7 @@ Key highlights of the project:
 ## Features
 
 - Searching, Sorting by any type.
-- Responsive & simple Design UI/UX. 
+- Responsive & simple UI/UX Design. 
 - ProductCart , Login , checkout , and... Many more!  
 
 ---
