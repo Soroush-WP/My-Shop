@@ -31,9 +31,12 @@ Follow these steps to run the project locally:
 1- Installing dependencies.
 ```bash
 npm install
+---
 2- Running The Server.
 ```bash
 npm run dev
+---
 3- Done !.
 ```bash
 http://localhost:5173/
+---
