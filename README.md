@@ -1,6 +1,6 @@
 # My-Shop
 
-![Project Screenshot](path/to/your-image.png)  
+![Project Screenshot](/PlaceHolder/PlaceHolder.png)  
 *A React Coded Web Shop with Lots of Featers.*
 
 ---
