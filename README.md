@@ -28,15 +28,11 @@ Key highlights of the project:
 
 Follow these steps to run the project locally:
 
-1- Installing dependencies.
 ```bash
+# Installing dependencies.
 npm install
----
-2- Running The Server.
-```bash
+# Running The Server.
 npm run dev
----
-3- Done !.
-```bash
+# Done .
 http://localhost:5173/
----
+
